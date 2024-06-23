@@ -1,3 +1,7 @@
+/*
+Based on https://stackoverflow.com/a/63666076
+*/
+
 #include <Windows.h>
 #include <iostream>
 
