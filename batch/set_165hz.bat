@@ -1,0 +1,1 @@
+..\x64\Release\set_refresh_rate.exe 165
